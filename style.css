@@ -4,11 +4,11 @@ body{
 .top{
     height: 100vh;
     width: 100vw;
-    background-image: url(./UIUX/PurpleBliss.jpg);
+    background-image: url(https://raw.githubusercontent.com/Zayd110/AT-S/main/AT%20%26%20S/UI%20UX/Purple%20Bliss.jpg);
 }
 
 .navbar{
-    background-image: url(./UIUX/PurpleBliss.jpg);
+    background-image: url(https://raw.githubusercontent.com/Zayd110/AT-S/main/AT%20%26%20S/UI%20UX/Purple%20Bliss.jpg);
 }
 /* 
 .nav-link{
