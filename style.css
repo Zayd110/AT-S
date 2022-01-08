@@ -1,16 +1,11 @@
-.navbar{
-    background-image: url(https://raw.githubusercontent.com/Zayd110/AT-S/main/AT%20%26%20S/UI%20UX/Purple%20Bliss.jpg);
-}
-
 .top{
-    background-image: url(https://raw.githubusercontent.com/Zayd110/AT-S/main/AT%20%26%20S/UI%20UX/Purple%20Bliss.jpg);
-    /* position: sticky; */
-    top: 0;
+    background-image: linear-gradient(180deg, #0b8591, #30123f);
 }
 
 .main-img{
     width: 350px;
 }
+
 
 .myform{
     width: 300px;
